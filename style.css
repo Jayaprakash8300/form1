@@ -1,0 +1,10 @@
+h2{
+    text-align: center;
+}
+.container-fluid{
+    width: 800px;
+    border: 2px solid black;
+    font-weight: bold;
+    
+    padding: 20px;
+}
